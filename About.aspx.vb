@@ -10,6 +10,8 @@ Public Class About
 
     Protected Sub btn_guardar_Click(sender As Object, e As EventArgs)
         persona.Nombre = txt_nombre.Text
+        persona.Apellido = txt_apellido.Text
+
 
     End Sub
 End Class
