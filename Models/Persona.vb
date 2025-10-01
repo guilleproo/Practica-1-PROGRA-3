@@ -45,5 +45,3 @@
         Me.Edad = edad
     End Sub
 End Class
-
-End Class
